@@ -320,6 +320,7 @@ class _TravelPreferencesScreenState extends State<TravelPreferencesScreen> {
     print('https://travelers-api.getyourguide.com/search/v2/search?searchSource=3&sortBy=popularity&q=${widget.searchQuery}+$interests+$tripType&startDate=${dateRange?.start}&endDate=${dateRange?.end}');
 
     //   .then((response) => print(response.json()))
+    
 
   }
 }
