@@ -321,6 +321,5 @@ class _TravelPreferencesScreenState extends State<TravelPreferencesScreen> {
 
     //   .then((response) => print(response.json()))
     
-
   }
 }
